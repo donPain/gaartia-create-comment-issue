@@ -36,7 +36,7 @@ $ npm test
   ✓ throws invalid number (3ms)
   ✓ wait 500 ms (504ms)
   ✓ test runs (95ms)
-
+a
 ...
 ```
 
