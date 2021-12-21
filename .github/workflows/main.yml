@@ -8,7 +8,7 @@ jobs:
   thanks:
     runs-on: ubuntu-latest
     steps:
-      - uses: donPain/thank-you-action@v1.0
+      - uses: donPain/thank-you-action@v1.1
         with:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           TENOR_TOKEN: ${{secrets.TENOR_TOKEN}}
